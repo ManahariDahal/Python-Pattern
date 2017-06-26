@@ -1,18 +1,3 @@
-## Author: Manahari Dahal
-## Due Date: October 27
-## Class: CSCI 2000
-## Instructor: Ms. Greer
-## Program Assignment: 8
-## Program Title: FunWithFunctions
-##
-## Program Description: This programs allows user to choose their choice while displaying
-##                      different types of design of asterisks 
-## Plagiarism Statement:
-## I swear that I have not received or given aid on this program
-## beyond guidelines of the course including giving or receiving
-## specific code conten
-
-
 def Main(): ## main function and everything is run here
     print("Options: ") ## Layout of the user's output
     print("Pattern 1")
